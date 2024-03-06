@@ -3,3 +3,6 @@ This is a project looking at changes in personal income over time. Specifically,
 Data was collected from the 2023 data release of Personal Income by County and Metropolitan Area from the Burea of Economic Analysis, which can be accessed [here.](https://www.bea.gov/data/income-saving/personal-income-county-metro-and-other-areas)
 
 This was then visualized by plotting the values in a choropleth map of Maryland, which was obtained from the Maryland opendata API and can be accessed [here.](https://geodata.md.gov/imap/rest/services/Boundaries/MD_PhysicalBoundaries/FeatureServer/1/query?outFields=*&where=1%3D1&f=geojson)
+
+
+Results look like this (link)[personal-income/per_inc_vs_pop.html]
