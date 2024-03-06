@@ -5,4 +5,4 @@ Data was collected from the 2023 data release of Personal Income by County and M
 This was then visualized by plotting the values in a choropleth map of Maryland, which was obtained from the Maryland opendata API and can be accessed [here.](https://geodata.md.gov/imap/rest/services/Boundaries/MD_PhysicalBoundaries/FeatureServer/1/query?outFields=*&where=1%3D1&f=geojson)
 
 
-Results look like this (link)[personal-income/per_inc_vs_pop.html]
+Results look like this [link](personal-income/per_inc_vs_pop.html)
